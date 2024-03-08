@@ -7,7 +7,7 @@ Created on Thu Nov 23 12:43:39 2023
 """
 
 import pickle
-import scikit\-learn
+import sklearn
 import streamlit as st
 import streamlit_option_menu
 from streamlit_option_menu import option_menu
