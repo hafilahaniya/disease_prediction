@@ -9,7 +9,6 @@ Created on Thu Nov 23 12:43:39 2023
 import pickle
 import streamlit as st
 import streamlit_option_menu
-import scikit-learn
 from streamlit_option_menu import option_menu
 
 
